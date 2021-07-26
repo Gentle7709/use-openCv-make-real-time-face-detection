@@ -9,5 +9,8 @@
 وتم الاستفادة من المقطع التالي 
 'https://www.youtube.com/watch?v=PLKLsPDZ1t0'
 
+وهذا المقطع أيضا 
+'https://www.youtube.com/watch?v=uDbDIhR76H4'
+
 
 وكل التفاصيل الباقية موجودة بالبي دي اف في الأعلى
