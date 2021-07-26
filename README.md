@@ -1,4 +1,4 @@
-# use-openCv-make-real-time-fice-detection
+# use-openCv-make-real-time-face-detection
 قمت بعمل مهمة تحديد الوجه في الوقت الفعلي عبر برنامج بايثون كانت خطوات سهلة ولكن يبغالها صبر  
 اولاً حمل البايثون من هنا 
 'https://www.python.org/downloads/'
