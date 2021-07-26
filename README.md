@@ -6,8 +6,8 @@
 ثم ابدأ بكتابة هذا الأمر في موجه الأوامر من خلال البحث عنه في اللابتوب او الكمبيوتر 
 'pip install opencv-python'
 
-وتم الاستفادة من المقطع التالي 
-'https://www.youtube.com/watch?v=PLKLsPDZ1t0'
+وتم الاستفادة من المقطع التالي  
+'https://www.youtube.com/watch?v=xXEt9dyvq3U'
 
 وهذا المقطع أيضا 
 'https://www.youtube.com/watch?v=uDbDIhR76H4'
